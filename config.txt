@@ -1,0 +1,4 @@
+color Green
+coord 400
+move SLSLSRSSLSSSRSRSRSSRSRSRSLSRSRSLRSS
+size Tiny

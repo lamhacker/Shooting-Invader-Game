@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>data/PlainBullet.png</file>
+        <file>data/PlainBullet.wav</file>
+        <file>data/DogInvaderGiantRed.png</file>
+        <file>data/DogInvaderLargeRed.png</file>
+        <file>data/DogInvaderNormalRed.png</file>
+        <file>data/DogInvaderTinyRed.png</file>
+        <file>data/DogInvaderGiantOrange.png</file>
+        <file>data/DogInvaderLargeOrange.png</file>
+        <file>data/DogInvaderNormalOrange.png</file>
+        <file>data/DogInvaderTinyOrange.png</file>
+        <file>data/DogInvaderGiantBlue.png</file>
+        <file>data/DogInvaderGiantGreen.png</file>
+        <file>data/DogInvaderGiantYellow.png</file>
+        <file>data/DogInvaderLargeBlue.png</file>
+        <file>data/DogInvaderLargeGreen.png</file>
+        <file>data/DogInvaderLargeYellow.png</file>
+        <file>data/DogInvaderNormalBlue.png</file>
+        <file>data/DogInvaderNormalGreen.png</file>
+        <file>data/DogInvaderNormalYellow.png</file>
+        <file>data/DogInvaderTinyBlue.png</file>
+        <file>data/DogInvaderTinyGreen.png</file>
+        <file>data/DogInvaderTinyYellow.png</file>
+    </qresource>
+</RCC>
